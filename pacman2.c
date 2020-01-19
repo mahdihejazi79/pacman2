@@ -115,7 +115,7 @@ int main()
 			if(c==75)
 			{
 				if(map[s][t-1]=='#' || t==0)
-				printf("You can’t move to down! There is an obstacle\n");
+				printf("You can’t move to left! There is an obstacle\n");
 				else
 				{
 					map[s][t]='1';
