@@ -127,7 +127,7 @@ int main()
 		}
 		else if(c=='-' && (c=getch())=='1')
 		{
-			printf("The game is over!\n");
+			printf("The game is over!                                     ");
 			return 0;
 		}	
 	}
