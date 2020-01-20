@@ -131,5 +131,5 @@ int main()
 			return 0;
 		}	
 	}
-	printf("Pacman finished eating!");	
+	printf("Pacman finished eating!                                      ");	
 }
